@@ -1,0 +1,20 @@
+{
+  "name": "meowodoro",
+  "version": "1.0.0",
+  "description": "pomodoro but with cats: kb and bb",
+  "main": "main.js",
+  "scripts": {
+    "start": "electronmon main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pomodoro",
+    "timer",
+    "cats"
+  ],
+  "author": "Anna Ha",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^34.2.0"
+  }
+}
